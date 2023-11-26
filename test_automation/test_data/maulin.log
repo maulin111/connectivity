@@ -1,0 +1,10 @@
+Oct-15 20:10:03 : DEBUG    : test_sample.py::TestDarshan::test_method : 18 : Debug log
+Oct-15 20:10:03 : INFO     : test_sample.py::TestDarshan::test_method : 19 : Info log
+Oct-15 20:10:03 : WARNING  : test_sample.py::TestDarshan::test_method : 20 : Warning log
+Oct-15 20:10:03 : ERROR    : test_sample.py::TestDarshan::test_method : 21 : Error log
+Oct-15 20:10:03 : CRITICAL : test_sample.py::TestDarshan::test_method : 22 : Critical log
+Oct-24 10:06:36 : DEBUG    : test_sample.py::TestDarshan::test_method : 17 : Debug log
+Oct-24 10:06:36 : INFO     : test_sample.py::TestDarshan::test_method : 18 : Info log
+Oct-24 10:06:36 : WARNING  : test_sample.py::TestDarshan::test_method : 19 : Warning log
+Oct-24 10:06:36 : ERROR    : test_sample.py::TestDarshan::test_method : 20 : Error log
+Oct-24 10:06:36 : CRITICAL : test_sample.py::TestDarshan::test_method : 21 : Critical log

@@ -1,0 +1,1 @@
+HOME_PAGE_SUCCESS_MESSAGE = 'Success'
